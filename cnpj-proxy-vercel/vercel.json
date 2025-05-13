@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/cnpj",
+      "methods": ["GET", "OPTIONS"],
+      "dest": "/api/cnpj.js"
+    }
+  ]
+}
